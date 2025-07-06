@@ -1,0 +1,14 @@
+h3{
+    font-family:Helvetica;
+    font-size: 50px;
+    color:#00ff00
+    text-align:center;
+    backgroung-color:blue;
+    font-style:italic;
+    font-weight: 800;
+}
+body{
+    background-image: url("environment.webp");
+.one{
+   background-color: #00ff00;
+}
